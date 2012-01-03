@@ -2,9 +2,15 @@
 
   <head>
     <title>Kahler Carpentry</title>
+    <%= stylesheet_link_tag 'main' %>
+
   </head>
 
   <body>
+
+    <%= image_tag "kahler_logo.png", :alt => "Kahler Carpentry Logo", 
+                                     :class => 'banner' %>
+
     <p><%= link_to "About", :action => "about" %></p>
     <p><%= link_to "Contact", :action => "contact" %></p>
     <h1>Kahler Carpentry</h1>
