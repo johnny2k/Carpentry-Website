@@ -4276,3 +4276,3257 @@ Processing MainController#index (for 127.0.0.1 at 2012-01-02 21:21:42) [GET]
 Rendering template within layouts/main
 Rendering main/index
 Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 21:25:23) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 21:25:26) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 21:26:03) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 21:41:54) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 21:51:25) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:03:36) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:03:37) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:03:41) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:04:31) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:28:57) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:28:59) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:32:55) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:33:40) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:37:22) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:37:39) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:37:40) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:39:13) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:39:14) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:39:15) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:39:15) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:39:16) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:40:29) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:40:30) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:40:46) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:40:47) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 55ms (View: 53, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:40:47) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:41:33) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:41:55) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:42:06) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:44:06) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:47:06) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:47:23) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:47:24) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:47:43) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:48:09) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:48:20) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:48:52) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:49:12) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:49:30) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:52:39) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:53:09) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:53:10) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:53:32) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:54:45) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:55:00) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:55:12) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:56:27) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 22:59:49) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:00:12) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:05:07) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:05:45) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:07:07) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:07:30) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:08:44) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:08:46) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:12:22) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:12:59) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:15:10) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:15:47) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:16:51) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:19:04) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:19:13) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-02 23:19:28) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main/index]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 00:41:02) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:31:54) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:35:01) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:36:30) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:36:31) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:37:04) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:37:52) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:38:07) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:39:33) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:40:49) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:44:04) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:45:46) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:46:27) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:47:31) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:47:32) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:48:31) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:48:32) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:54:28) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:55:21) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:56:02) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:56:40) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:57:03) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:57:16) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:57:20) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:57:21) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:57:37) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:57:56) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:58:30) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:58:52) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:59:29) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 11:59:50) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:00:00) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-03 12:00:08) [GET]
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-03 12:00:10) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:00:35) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:00:55) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:01:19) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:01:29) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:01:40) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:01:45) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:02:09) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:02:20) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:03:05) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:03:14) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:03:52) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:04:10) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:04:55) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:04:56) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:04:57) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-03 12:04:59) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-03 12:05:01) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 12:06:04) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-03 12:06:05) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 20:56:25) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-03 20:56:43) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-03 20:56:45) [GET]
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 21:05:09) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-03 21:05:10) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-03 21:05:13) [GET]
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 21:16:31) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 21:16:33) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 21:16:41) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-03 21:20:33) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:14:04) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 19:14:07) [GET]
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 19:14:09) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 71ms (View: 69, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 19:14:11) [GET]
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 19:14:12) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:34:17) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:38:57) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:39:08) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:39:45) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:40:30) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:40:47) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:41:03) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:41:21) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:41:34) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:41:47) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:41:49) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:41:56) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:42:05) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:42:14) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:42:23) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:42:32) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:42:42) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:42:53) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:42:59) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:43:04) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:43:13) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:43:19) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:43:26) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:44:02) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:44:26) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:44:44) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:45:12) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:45:20) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:52:05) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:54:33) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:55:08) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:55:54) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:56:57) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:56:58) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:56:59) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:57:09) [GET]
+Rendering template within layouts/main
+Rendering main/index
+ERROR: compiling _run_erb_app47views47main47index46html46erb RAISED compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:27: syntax error, unexpected ';'
+; @output_buffer
+ ^
+/home/johnny/carpentry/app/views/main/index.html.erb:30: syntax error, unexpected kEND, expecting ')'
+Function body:           def _run_erb_app47views47main47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<html>\n\n  <head>\n    <title>Kahler Carpentry</title>\n    "
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'main' ).to_s); @output_buffer.concat "\n    <style type=\"/text/css\"<>%= yield :stylesheets %></style>\n  </head>\n\n  <body>\n\n  <div class=\"image\">\n    "
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag "kahler_logo_medium.png", :alt => "Kahler Carpentry Logo").to_s); @output_buffer.concat "\n\n    "
+
+; @output_buffer.concat(( link_to "About", { :action => "about" },
+                         :class => 'button' ).to_s); @output_buffer.concat "\n    <br>\n    "
+
+; @output_buffer.concat(( link_to "Contact", { :action => "contact" },
+            #             :class => 'button' ).to_s); @output_buffer.concat "\n  </div>\n\n    <p class=block>Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of semaingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p>\n\n\n  </body>\n\n</html>\n"
+
+
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /home/johnny/carpentry/app/views/main/index.html.erb:30:in `compile!'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/server.rb:49
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+
+ActionView::TemplateError (compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:27: syntax error, unexpected ';'
+; @output_buffer
+ ^
+/home/johnny/carpentry/app/views/main/index.html.erb:30: syntax error, unexpected kEND, expecting ')') on line #27 of app/views/main/index.html.erb:
+24:   </body>
+25: 
+26: </html>
+
+    app/views/main/index.html.erb:30:in `compile!'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+    vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+    vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+    vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+    vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+    vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_trace (29.0ms)
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_request_and_response (0.6ms)
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:58:01) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:58:25) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:58:42) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:59:03) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:59:08) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:59:16) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 19:59:25) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 20:00:48) [GET]
+Rendering template within layouts/main
+Rendering main/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 20:00:50) [GET]
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:02:59) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:03:00) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:03:07) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:03:49) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:03:49) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 53ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:04:11) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:04:12) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:04:20) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:04:27) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:04:57) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:07:23) [GET]
+Rendering template within layouts/main
+Rendering main/index
+ERROR: compiling _run_erb_app47views47main47index46html46erb RAISED compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:16: syntax error, unexpected tSYMBEG, expecting kDO or '{' or '('
+			 {margin-left:20px;} ).to_s); @output_buffer.concat "\n    "
+			              ^
+/home/johnny/carpentry/app/views/main/index.html.erb:16: syntax error, unexpected '}', expecting ')'
+			 {margin-left:20px;} ).to_s); @output_buffer.concat "\n    "
+			                    ^
+Function body:           def _run_erb_app47views47main47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<html>\n\n  <head>\n    <title>Kahler Carpentry</title>\n    "
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'main' ).to_s); @output_buffer.concat "\n    <style type=\"/text/css\"<>%= yield :stylesheets %></style>\n  </head>\n\n  <body>\n\n  <div class=\"image\">\n    "
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag "kahler_logo_medium.png", :alt => "Kahler Carpentry Logo").to_s); @output_buffer.concat "\n\n    "
+
+; @output_buffer.concat(( link_to "About", { :action => "about" },
+                         :class => 'button' 
+			 {margin-left:20px;} ).to_s); @output_buffer.concat "\n    "
+; @output_buffer.concat(( link_to "Contact", { :action => "contact" },
+                         :class => 'button' ).to_s); @output_buffer.concat "\n  </div>\n\n    <p class=block>Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of semaingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p>\n\n\n  </body>\n\n</html>\n"
+
+
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /home/johnny/carpentry/app/views/main/index.html.erb:30:in `compile!'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/server.rb:49
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+
+ActionView::TemplateError (compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:16: syntax error, unexpected tSYMBEG, expecting kDO or '{' or '('
+			 {margin-left:20px;} ).to_s); @output_buffer.concat "\n    "
+			              ^
+/home/johnny/carpentry/app/views/main/index.html.erb:16: syntax error, unexpected '}', expecting ')'
+			 {margin-left:20px;} ).to_s); @output_buffer.concat "\n    "
+			                    ^) on line #16 of app/views/main/index.html.erb:
+13: 
+14:     <%= link_to "About", { :action => "about" },
+15:                          :class => 'button' 
+16: 			 {margin-left:20px;} %>
+17:     <%= link_to "Contact", { :action => "contact" },
+18:                          :class => 'button' %>
+19:   </div>
+
+    app/views/main/index.html.erb:30:in `compile!'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+    vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+    vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+    vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+    vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+    vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_trace (28.6ms)
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_request_and_response (0.6ms)
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:10:41) [GET]
+Rendering template within layouts/main
+Rendering main/index
+ERROR: compiling _run_erb_app47views47main47index46html46erb RAISED compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:18: syntax error, unexpected tIDENTIFIER, expecting ')'
+...             :class => 'button' ).to_s); @output_buffer.conc...
+                              ^
+/home/johnny/carpentry/app/views/main/index.html.erb:18: unterminated string meets end of file
+/home/johnny/carpentry/app/views/main/index.html.erb:18: syntax error, unexpected $end, expecting ')'
+Function body:           def _run_erb_app47views47main47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<html>\n\n  <head>\n    <title>Kahler Carpentry</title>\n    "
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'main' ).to_s); @output_buffer.concat "\n    <style type=\"/text/css\"<>%= yield :stylesheets %></style>\n  </head>\n\n  <body>\n\n  <div class=\"image\">\n    "
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag "kahler_logo_medium.png", :alt => "Kahler Carpentry Logo").to_s); @output_buffer.concat "\n\n    "
+
+; @output_buffer.concat(( link_to "About", { :action => "about" },
+                           :class => 'button',
+                           :style => 'position=absolute;left=0px; ).to_s); @output_buffer.concat "\n    "
+; @output_buffer.concat(( link_to "Contact", { :action => "contact" },
+                         :class => 'button' ).to_s); @output_buffer.concat "\n  </div>\n\n    <p class=block>Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of semaingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p>\n\n\n  </body>\n\n</html>\n"
+
+
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /home/johnny/carpentry/app/views/main/index.html.erb:18:in `compile!'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/server.rb:49
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+
+ActionView::TemplateError (compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:18: syntax error, unexpected tIDENTIFIER, expecting ')'
+...             :class => 'button' ).to_s); @output_buffer.conc...
+                              ^
+/home/johnny/carpentry/app/views/main/index.html.erb:18: unterminated string meets end of file
+/home/johnny/carpentry/app/views/main/index.html.erb:18: syntax error, unexpected $end, expecting ')') on line #18 of app/views/main/index.html.erb:
+15:                            :class => 'button',
+16:                            :style => 'position=absolute;left=0px; %>
+17:     <%= link_to "Contact", { :action => "contact" },
+18:                          :class => 'button' %>
+19:   </div>
+20: 
+21:     <p class=block>Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of semaingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p>
+
+    app/views/main/index.html.erb:18:in `compile!'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+    vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+    vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+    vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+    vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+    vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_trace (34.3ms)
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_request_and_response (0.7ms)
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:11:46) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:12:32) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:12:32) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:13:30) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:19:05) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#info (for 127.0.0.1 at 2012-01-04 20:19:06) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+
+
+ActionController::UnknownAction (No action responded to info. Actions: about, contact, and index):
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    /vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    /vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    /vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing MainController#info (for 127.0.0.1 at 2012-01-04 20:19:10) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+
+
+ActionController::UnknownAction (No action responded to info. Actions: about, contact, and index):
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    /vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    /vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    /vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:19:48) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:20:22) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 20:30:16) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 20:30:18) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 20:30:20) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#info (for 127.0.0.1 at 2012-01-04 20:30:21) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+
+
+ActionController::UnknownAction (No action responded to info. Actions: about, contact, and index):
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    /vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    /vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    /vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing MainController#info (for 127.0.0.1 at 2012-01-04 20:30:23) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+
+
+ActionController::UnknownAction (No action responded to info. Actions: about, contact, and index):
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    /vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    /vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    /vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    /vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    /vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    /vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    /vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:33:33) [GET]
+Rendering template within layouts/main
+Rendering main/index
+ERROR: compiling _run_erb_app47views47main47index46html46erb RAISED compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:15: syntax error, unexpected tASSOC, expecting ')'
+...                     :class => 'button' ).to_s); @output_buf...
+                              ^
+/home/johnny/carpentry/app/views/main/index.html.erb:17: syntax error, unexpected tASSOC, expecting ')'
+...                     :class => 'button' ).to_s); @output_buf...
+                              ^
+Function body:           def _run_erb_app47views47main47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<html>\n\n  <head>\n    <title>Kahler Carpentry</title>\n    "
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'main' ).to_s); @output_buffer.concat "\n    <style type=\"/text/css\"<>%= yield :stylesheets %></style>\n  </head>\n\n  <body>\n\n  <div class=\"image\">\n    "
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag "kahler_logo_medium.png", :alt => "Kahler Carpentry Logo").to_s); @output_buffer.concat "\n\n    "
+
+; @output_buffer.concat(( button_to "About", { :action => "about" } 
+                             :class => 'button' ).to_s); @output_buffer.concat "\n    "
+; @output_buffer.concat(( button_to "Contact", { :action => "contact" } 
+                               :class => 'button' ).to_s); @output_buffer.concat "\n                               \n  </div>\n\n    <p class=block>Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of semaingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p>\n\n\n  </body>\n\n</html>\n"
+
+
+
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /home/johnny/carpentry/app/views/main/index.html.erb:30:in `compile!'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/server.rb:49
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+
+ActionView::TemplateError (compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:15: syntax error, unexpected tASSOC, expecting ')'
+...                     :class => 'button' ).to_s); @output_buf...
+                              ^
+/home/johnny/carpentry/app/views/main/index.html.erb:17: syntax error, unexpected tASSOC, expecting ')'
+...                     :class => 'button' ).to_s); @output_buf...
+                              ^) on line #15 of app/views/main/index.html.erb:
+12:     <%= image_tag "kahler_logo_medium.png", :alt => "Kahler Carpentry Logo"%>
+13: 
+14:     <%= button_to "About", { :action => "about" } 
+15:                              :class => 'button' %>
+16:     <%= button_to "Contact", { :action => "contact" } 
+17:                                :class => 'button' %>
+18:                                
+
+    app/views/main/index.html.erb:30:in `compile!'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+    vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+    vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+    vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+    vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+    vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_trace (28.4ms)
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_request_and_response (0.8ms)
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:34:04) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:35:27) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:37:20) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:37:36) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:39:46) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:44:35) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:45:20) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:45:30) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:45:35) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 20:45:40) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:45:50) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:45:57) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:46:10) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:46:15) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:46:20) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 20:46:25) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 20:46:27) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:51:54) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:53:06) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:53:14) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:53:20) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:53:32) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 20:53:34) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 20:53:36) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:53:43) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:53:49) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:54:22) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 20:54:24) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 20:54:25) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:55:32) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:55:48) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:55:54) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:56:08) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:56:26) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:57:51) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:57:58) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:58:11) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 20:59:26) [GET]
+Rendering template within layouts/main
+Rendering main/index
+
+
+ActionView::TemplateError (wrong number of arguments (3 for 2)) on line #12 of app/views/main/index.html.erb:
+9:   <body>
+10: 
+11:   <div class="image">
+12:     <%= image_tag "kahler_logo_medium.png", { :alt => "Kahler Carpentry Logo" },  
+13:                                               :stlye => "border=solid" %>
+14: 
+15:     <%= button_to "About", { :action => "about" },
+
+    app/views/main/index.html.erb:12:in `image_tag'
+    app/views/main/index.html.erb:12
+    vendor/rails/actionpack/lib/action_view/renderable.rb:39:in `send'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:39:in `render'
+    vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+    vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+    vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+    vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+    vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_trace (28.5ms)
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_request_and_response (0.7ms)
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:00:09) [GET]
+Rendering template within layouts/main
+Rendering main/index
+
+
+ActionView::TemplateError (wrong number of arguments (3 for 2)) on line #12 of app/views/main/index.html.erb:
+9:   <body>
+10: 
+11:   <div class="image">
+12:     <%= image_tag "kahler_logo_medium.png", { :alt => "Kahler Carpentry Logo" },  
+13:                                               :stlye => "border:solid" %>
+14: 
+15:     <%= button_to "About", { :action => "about" },
+
+    app/views/main/index.html.erb:12:in `image_tag'
+    app/views/main/index.html.erb:12
+    vendor/rails/actionpack/lib/action_view/renderable.rb:39:in `send'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:39:in `render'
+    vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+    vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+    vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+    vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+    vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_trace (29.6ms)
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_request_and_response (0.7ms)
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:01:40) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:02:23) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:02:46) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 21:03:22) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 21:03:23) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 21:03:25) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/about
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 21:03:27) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#contact (for 127.0.0.1 at 2012-01-04 21:03:29) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/contact
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/contact]
+
+
+Processing MainController#about (for 127.0.0.1 at 2012-01-04 21:03:30) [POST]
+  Parameters: {"authenticity_token"=>"19102c5b253ef1dda3f9d19609e8ea2953c33209"}
+Rendering template within layouts/main
+Rendering main/about
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://127.0.0.1/main/about]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:04:06) [GET]
+Rendering template within layouts/main
+Rendering main/index
+ERROR: compiling _run_erb_app47views47main47index46html46erb RAISED compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:14: syntax error, unexpected '<', expecting ')'
+    <%= button_to "About", { :action => "about" },
+     ^
+/home/johnny/carpentry/app/views/main/index.html.erb:14: syntax error, unexpected '}', expecting ')'
+    <%= button_to "About", { :action => "about" },
+                                                 ^
+Function body:           def _run_erb_app47views47main47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<html>\n\n  <head>\n    <title>Kahler Carpentry</title>\n    "
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'main' ).to_s); @output_buffer.concat "\n    <style type=\"/text/css\"<>%= yield :stylesheets %></style>\n  </head>\n\n  <body>\n\n  <div class=\"image\">\n    "
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag "kahler_logo_medium.png", { :alt => "Kahler Carpentry Logo"} 
+
+    <%= button_to "About", { :action => "about" },
+                             :class => 'button' ).to_s); @output_buffer.concat "\n    \n    "
+
+; @output_buffer.concat(( button_to "Contact", { :action => "contact" }, 
+                               :class => 'button', 
+                               :style => "left: 90px" ).to_s); @output_buffer.concat "\n    \n     "
+
+; @output_buffer.concat(( button_to "Gallery", { :action => "contact" },
+                               :class => 'button',  
+                               :style => "left: 185px" ).to_s); @output_buffer.concat "\n\n                               \n  </div>\n\n    <p class=block>Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of semaingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p>\n\n\n  </body>\n\n</html>\n"
+
+
+
+
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /home/johnny/carpentry/app/views/main/index.html.erb:37:in `compile!'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/server.rb:49
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+
+ActionView::TemplateError (compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:14: syntax error, unexpected '<', expecting ')'
+    <%= button_to "About", { :action => "about" },
+     ^
+/home/johnny/carpentry/app/views/main/index.html.erb:14: syntax error, unexpected '}', expecting ')'
+    <%= button_to "About", { :action => "about" },
+                                                 ^) on line #14 of app/views/main/index.html.erb:
+11:   <div class="image">
+12:     <%= image_tag "kahler_logo_medium.png", { :alt => "Kahler Carpentry Logo"} 
+13: 
+14:     <%= button_to "About", { :action => "about" },
+15:                              :class => 'button' %>
+16:     
+17:     <%= button_to "Contact", { :action => "contact" }, 
+
+    app/views/main/index.html.erb:37:in `compile!'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+    vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+    vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+    vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+    vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+    vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_trace (30.7ms)
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_request_and_response (0.7ms)
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:04:16) [GET]
+Rendering template within layouts/main
+Rendering main/index
+ERROR: compiling _run_erb_app47views47main47index46html46erb RAISED compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:14: syntax error, unexpected '<', expecting ')'
+    <%= button_to "About", { :action => "about" },
+     ^
+/home/johnny/carpentry/app/views/main/index.html.erb:14: syntax error, unexpected '}', expecting ')'
+    <%= button_to "About", { :action => "about" },
+                                                 ^
+Function body:           def _run_erb_app47views47main47index46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<html>\n\n  <head>\n    <title>Kahler Carpentry</title>\n    "
+
+
+
+; @output_buffer.concat(( stylesheet_link_tag 'main' ).to_s); @output_buffer.concat "\n    <style type=\"/text/css\"<>%= yield :stylesheets %></style>\n  </head>\n\n  <body>\n\n  <div class=\"image\">\n    "
+
+
+
+
+
+
+; @output_buffer.concat(( image_tag "kahler_logo_medium.png", { :alt => "Kahler Carpentry Logo" } 
+
+    <%= button_to "About", { :action => "about" },
+                             :class => 'button' ).to_s); @output_buffer.concat "\n    \n    "
+
+; @output_buffer.concat(( button_to "Contact", { :action => "contact" }, 
+                               :class => 'button', 
+                               :style => "left: 90px" ).to_s); @output_buffer.concat "\n    \n     "
+
+; @output_buffer.concat(( button_to "Gallery", { :action => "contact" },
+                               :class => 'button',  
+                               :style => "left: 185px" ).to_s); @output_buffer.concat "\n\n                               \n  </div>\n\n    <p class=block>Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of semaingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p>\n\n\n  </body>\n\n</html>\n"
+
+
+
+
+
+
+
+
+
+
+; @output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /home/johnny/carpentry/app/views/main/index.html.erb:37:in `compile!'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/home/johnny/carpentry/vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+/home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+/var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+/home/johnny/carpentry/vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+/home/johnny/carpentry/vendor/rails/railties/lib/commands/server.rb:49
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+
+ActionView::TemplateError (compile error
+/home/johnny/carpentry/app/views/main/index.html.erb:14: syntax error, unexpected '<', expecting ')'
+    <%= button_to "About", { :action => "about" },
+     ^
+/home/johnny/carpentry/app/views/main/index.html.erb:14: syntax error, unexpected '}', expecting ')'
+    <%= button_to "About", { :action => "about" },
+                                                 ^) on line #14 of app/views/main/index.html.erb:
+11:   <div class="image">
+12:     <%= image_tag "kahler_logo_medium.png", { :alt => "Kahler Carpentry Logo" } 
+13: 
+14:     <%= button_to "About", { :action => "about" },
+15:                              :class => 'button' %>
+16:     
+17:     <%= button_to "Contact", { :action => "contact" }, 
+
+    app/views/main/index.html.erb:37:in `compile!'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:66:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `synchronize'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:64:in `compile'
+    vendor/rails/actionpack/lib/action_view/renderable.rb:26:in `render'
+    vendor/rails/actionpack/lib/action_view/template.rb:73:in `render_template'
+    vendor/rails/actionpack/lib/action_view/base.rb:256:in `render'
+    vendor/rails/actionpack/lib/action_view/base.rb:369:in `_render_with_layout'
+    vendor/rails/actionpack/lib/action_view/base.rb:254:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1177:in `render_for_file'
+    vendor/rails/actionpack/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/activesupport/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:51:in `render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1251:in `default_render'
+    vendor/rails/actionpack/lib/action_controller/base.rb:1257:in `perform_action_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:617:in `call_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    vendor/rails/actionpack/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    vendor/rails/actionpack/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    vendor/rails/activerecord/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    vendor/rails/activerecord/lib/active_record/query_cache.rb:8:in `cache'
+    vendor/rails/actionpack/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `send'
+    vendor/rails/actionpack/lib/action_controller/base.rb:524:in `process_without_filters'
+    vendor/rails/actionpack/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    vendor/rails/actionpack/lib/action_controller/session_management.rb:134:in `process'
+    vendor/rails/actionpack/lib/action_controller/base.rb:392:in `process'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:184:in `handle_request'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:112:in `dispatch_unlocked'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:125:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `synchronize'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:124:in `dispatch'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:134:in `dispatch_cgi'
+    vendor/rails/actionpack/lib/action_controller/dispatcher.rb:41:in `dispatch'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /var/lib/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load_without_new_constant_marking'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:142:in `load'
+    vendor/rails/railties/lib/commands/servers/mongrel.rb:64
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:521:in `new_constants_in'
+    vendor/rails/activesupport/lib/active_support/dependencies.rb:153:in `require'
+    vendor/rails/railties/lib/commands/server.rb:49
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_trace (87.5ms)
+Rendered /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/_request_and_response (0.8ms)
+Rendering /home/johnny/carpentry/vendor/rails/actionpack/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:04:34) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:05:22) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:05:33) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:05:34) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:05:56) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 15ms (View: 10, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:06:01) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:06:35) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:06:42) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:07:53) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]
+
+
+Processing MainController#index (for 127.0.0.1 at 2012-01-04 21:10:33) [GET]
+Rendering template within layouts/main
+Rendering main/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://127.0.0.1/main]

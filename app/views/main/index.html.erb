@@ -3,19 +3,30 @@
   <head>
     <title>Kahler Carpentry</title>
     <%= stylesheet_link_tag 'main' %>
-
+    <style type="/text/css"<>%= yield :stylesheets %></style>
   </head>
 
   <body>
 
-    <%= image_tag "kahler_logo.png", :alt => "Kahler Carpentry Logo", 
-                                     :class => 'banner' %>
+  <div class="image">
+    <%= image_tag "kahler_logo_medium.png", { :alt => "Kahler Carpentry Logo" } %>
 
-    <p><%= link_to "About", :action => "about" %></p>
-    <p><%= link_to "Contact", :action => "contact" %></p>
-    <h1>Kahler Carpentry</h1>
+    <%= button_to "About", { :action => "about" },
+                             :class => 'button' %>
+    
+    <%= button_to "Contact", { :action => "contact" }, 
+                               :class => 'button', 
+                               :style => "left: 90px" %>
+    
+     <%= button_to "Gallery", { :action => "contact" },
+                               :class => 'button',  
+                               :style => "left: 185px" %>
 
-    <p>Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of semaingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p>
+                               
+  </div>
+
+    <p class=block>Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of semaingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p>
+
 
   </body>
 
