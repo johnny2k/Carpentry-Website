@@ -11,6 +11,7 @@ text-align:center;
 
 .block
 {
+font-style: oblique;
 position: absolute;
 font-family:"Times New Roman";
 font-size:20px;
@@ -19,6 +20,7 @@ word-spacing: 5px;
 background-color: honeydew;
 border-style: solid;
 border-radius: 9px;
+border-width: 3px;
 float: left; 
 top: 115px;
 left: -580px;
@@ -27,6 +29,7 @@ right: 45px;
 
 .top_sentence
 {
+font-style:italic;
 border-style: solid;
 border-width: 3px;
 border-color: black;
@@ -47,6 +50,7 @@ top: 15px;
 font-size: 20px;
 padding: 5px 10px;
 border: solid;
+border-width: 3px;
 cursor: pointer;
 border-radius: 5px;
 -moz-border-radius: 5px;
@@ -61,21 +65,23 @@ top: -30px;
 {
 position: absolute;
 top: 40px;
-left: 90px;
+left: 50px;
+background-image: url('/images/floor.jpg');
+padding: 10px 10px 10px 10px;
 border-style: solid;
-border-radius: 20px;
+border-radius: 7px;
 border-width: 3px;
 }
 
 .info
 {
-text-align: center;
+text-align: left;
 margin-right: 20px;
 padding-left: 40px;
 margin-left: 20px;
 position: absolute;
 right: 50px;
-top: 20px;
+top: 573px;
 }
 
 .top
@@ -86,7 +92,7 @@ background-repeat: no-repeat;
 background-size: 700px;
 background-position: 70px 60px;; 
 position: absolute;
-top: 240px;
+top: 290px;
 left: 90px;
 border-style: solid;
 border-radius: 10px;
@@ -108,3 +114,22 @@ li
 {
 display: inline;
 }
+
+.slideshow
+{
+position: absolute;
+top:50px;
+left: 770px;
+padding: 0;
+margin: 0;
+}
+
+.slideshow img
+{
+padding: 10px;
+border: 1px solid #ccc;
+background-color: #fff99d;
+top: 0;
+left: 0;
+}
+

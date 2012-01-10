@@ -1,35 +1,30 @@
-<html>
-
-  <head>
-    <title>Kahler Carpentry</title>
-    <%= stylesheet_link_tag 'main' %>
-    <style type="/text/css"<>%= yield :stylesheets %></style>
-  </head>
-
-  <body>
-
-    <div class="info"><p>cell: KL5-420-6969<br>email: the-man@kahler.com<br>address: 420 North Chronic Street, Salem Oregon, 80085</p></div>
+    <div class="info"><p><b>cell:</b> KL5-420-6969<br><b>email</b>: the-man@kahler.com<br><b>address:</b> 420 North Chronic Street, Salem Oregon, 80085</p></div>
 
      <%= image_tag "kahler_logo_medium.png", :alt => "Kahler Carpentry Logo" , :class => 'image' %>
 
     <div class="top">
 
          <ul class="horizontal_list">
-           <li><%= button_to "About", { :action => "about" }, :class => 'button' %></li>
+           <li><%= button_to "Services", { :action => "Services" }, :class => 'button' %></li>
     
            <li><%= button_to "Contact", { :action => "contact" }, :style => "left: 10%", :class => 'button' %></li>
       
-           <li><%= button_to "Gallery", { :action => "gallery" }, :style => "left: 16%", :class => 'button'  %></li>
+           <li><%= button_to "Gallery", { :action => "gallery" }, :style => "left: 16%", :class => 'button' %></li>
+
+           <li><%= button_to "Forum", { :action => "#" }, :style => "left: 20%", :class => 'button' %></li>
            <li><p class="top_sentence">Need a new bed? Have some broken stairs? Call CODY!</p></li>
-	   <li><p class="block">Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of semaingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p><li>
+	   <li><p class="block">Kahler Carpentry is a master of wood work. His hot-shot team of humans and Ewoks are capable of seamingly impossible tasks that will boggle the mind, impress the ladies and scare the neighbors!</p><li>
          </ul>
                                
 
     </div>
 
+    <div class="slideshow">
+      <%= image_tag "carpentry1.jpg", :alt => "" , :class => 'image' %>
+      <%= image_tag "carpentry2.jpg", :alt => "" , :class => 'image' %>
+      <%= image_tag "carpentry3.jpg", :alt => "" , :class => 'image' %>
+      <%= image_tag "carpentry4.jpg", :alt => "" , :class => 'image' %>
+      <%= image_tag "carpentry5.jpg", :alt => "" , :class => 'image' %>
+    </div>
 
 
-
-  </body>
-
-</html>
